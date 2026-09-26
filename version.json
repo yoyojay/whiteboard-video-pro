@@ -1,0 +1,8 @@
+{
+  "product": "白板视频 Pro",
+  "edition": "1.0",
+  "version": "1.0.0",
+  "build": "2026-09-26",
+  "channel": "stable",
+  "_note": "改这里 + 跑 构建/打包.py 就出新版 zip，不用动别的。channel=stable|beta"
+}
